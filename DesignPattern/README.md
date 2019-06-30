@@ -11,6 +11,7 @@ Singleton       | 6/25
 NormalFactory   | 6/25
 AbstractFactory | 6/26
 Strategy        | 6/27
+Decorator       | 6/30
 
 
 # 策略模式 vs 工廠模式

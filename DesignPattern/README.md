@@ -12,6 +12,8 @@ NormalFactory   | 6/25
 AbstractFactory | 6/26
 Strategy        | 6/27
 Decorator       | 6/30
+Observer        | 7/04
+Command         | 7/04
 
 
 # 策略模式 vs 工廠模式

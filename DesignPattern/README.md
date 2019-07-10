@@ -14,6 +14,8 @@ Strategy        | 6/27
 Decorator       | 6/30
 Observer        | 7/04
 Command         | 7/04
+Adapter         | 7/05
+Facade          | 7/10
 
 
 # 策略模式 vs 工廠模式
